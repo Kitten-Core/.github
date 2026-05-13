@@ -1,4 +1,4 @@
-# KittenLab
+# KittenCore
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3d0d7c89-2c6d-40ee-865f-6e86878140c5" />
 
